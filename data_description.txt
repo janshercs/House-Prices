@@ -195,7 +195,7 @@ RoofMatl: Roof material
        Membran	Membrane
        Metal	Metal
        Roll	Roll
-       Tar&Grv	Gravel & Tar
+       Tar&liv	Gravel & Tar
        WdShake	Wood Shakes
        WdShngl	Wood Shingles
 		
@@ -239,7 +239,7 @@ Exterior2nd: Exterior covering on house (if more than one material)
        Wd Sdng	Wood Siding
        WdShing	Wood Shingles
 	
-MasVnrType: Masonry veneer type
+nrType: Masonry veneer type
 
        BrkCmn	Brick Common
        BrkFace	Brick Face
